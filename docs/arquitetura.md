@@ -1,7 +1,7 @@
 # Arquitetura do Sistema
 
-**Grupo:** (nome do grupo)
-**Última atualização:** (data)
+**Grupo:** (Próximo Passo)
+**Última atualização:** (12/07/2026)
 
 ---
 
