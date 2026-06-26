@@ -7,7 +7,7 @@
 
 | Samara Silva Pessoa | GitHub | 3C |
 |--------------|--------|-------|
-| (Laura Ferreira de Almada) | @username | 3C |
+| (Laura Ferreira de Almada) | @username  | 3C |
 | (Andressa Queiroz de Sousa) | @username | 3C |
 | (Ana Beatriz Americo Almada do Nascimento) | @username | 3C |
 | (Rafaela Pereira de Santana) | @username | 3C |
