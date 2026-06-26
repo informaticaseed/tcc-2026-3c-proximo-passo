@@ -12,7 +12,7 @@
 | (Ana Beatriz Americo Almada do Nascimento) | @username | 3C |
 | (Rafaela Pereira de Santana) | @username | 3C |
 
-**Tema:** (Site de teste vocacional, ondem não só ajuda os estudantes de ensino médio a descobrirem novas áreas como também ajuda a organizar e a planejar durante uma decisão importante das suas vidas.)
+**Tema:** ( Site de teste vocacional, ondem não só ajuda os estudantes de ensino médio a descobrirem novas áreas como também ajuda a organizar e a planejar durante uma decisão importante das suas vidas.)
 **Tecnologia:** Python + CSS + Flask + HTML + Banco de Dados
 
 ---
