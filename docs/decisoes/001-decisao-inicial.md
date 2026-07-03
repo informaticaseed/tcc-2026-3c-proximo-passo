@@ -1,29 +1,29 @@
-# ADR 001 — [Título da Decisão]
+# ADR 001 — Mudança do tema
 
-**Data:** (data)
-**Status:** Aceita / Em discussão / Substituída
+**Data:** 24/03
+**Status:** Aceita
 
 ---
 
 ## Contexto
 
-(Por que essa decisão foi necessária? Qual problema estava sendo resolvido?)
+Precisamos de um tema mais viável para o trabalho
 
 ---
 
 ## Alternativas consideradas
 
-- **Opção A:** ... — vantagem: ... / desvantagem: ...
-- **Opção B:** ... — vantagem: ... / desvantagem: ...
+- **Opção A:** Bots de Reciclagem — vantagem: Era um tema mais "impressionante" / desvantagem: Era inviável e muito complexo
+- **Opção B:** Site para orientação profissional — vantagem: É mais condizente com a nossa realidade / desvantagem: É mais simples
 
 ---
 
 ## Decisão
 
-(O que o grupo decidiu e por quê)
+Decidimos mudar o tema para o Site de orientação profissional, por ser mais viável
 
 ---
 
 ## Consequências
 
-(O que muda no projeto a partir dessa decisão)
+O projeto acelerou muito após essa decisão, pois há um foco e um objetivo mais palpável
