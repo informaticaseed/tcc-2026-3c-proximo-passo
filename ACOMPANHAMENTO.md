@@ -1,7 +1,7 @@
 # Acompanhamento Quinzenal — Prof. Rafael
-**Grupo:** [Nome do Grupo]
-**Turma:** 3A / 3B / 3C
-**Repositório:** [link]
+**Grupo:** Proximo Passo
+**Turma:** 3C
+
 
 ---
 
@@ -11,9 +11,16 @@
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Andressa | Falta pesquisar com mais detalhes na parte escrita: pagar tudo isso e as pesquisa do site |
+| Ana Beatriz | Falta pesquisar com mais detalhes na parte escrita: influência familiar na decisão carreira |
+| Laura | Falta pesquisar com mais detalhes na parte escrita: importância do autoconhecimento nas escolha|
+| Rafaela | Desenvolvimento do banco de dados e integração do login com o backend |
+| Samara | Terminar Frontend aplicar o CSS|
+
+Backlog:
+- Terminar de fazer o site: fazer integração do backend e frontend
+- Frontend aplicar o CSS
+- Falta pesquisar com mais detalhes
 
 ### Verificação em 08/08
 
