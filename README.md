@@ -3,7 +3,7 @@
 
 ---
 
-## 👥 Integrantes
+## 👥 Integrante
 
 | Samara Silva Pessoa | GitHub | 3C |
 |--------------|--------|-------|
