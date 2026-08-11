@@ -1,0 +1,39 @@
+from flask import Flask, render_template, request, url_for, redirect
+
+app = Flask(__name__)
+
+class Usuario:
+    def cadastrar(self):
+        self.__nome = input('nome: ')
+        self.__email = input('email: ')
+        self.__senha = input('senha: ')
+    def mudar_senha(self):
+        e = input('email: ')
+        if e == self.__email:
+            self.__senha = input('nova senha: ')
+        else:
+            print('no')
+    def login(self):
+        e = input('email: ')
+        s = input('senha: ')
+        if e == self.__email and s == self.__senha:
+            print('Bem-vindo')
+        else:
+            print('email ou senha incorretos')
+
+@app.route('/')
+def login():
+    return render_template('index.html')
+
+
+@app.route('/home')
+def home():
+    return render_template('home.html')
+
+@app.route('/entrar')
+def entrar():
+    return redirect(url_for('home'))
+
+
+if __name__ == '__main__':
+    app.run(debug=True)
