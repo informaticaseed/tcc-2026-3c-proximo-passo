@@ -37,13 +37,15 @@ Backlog:
 
 ## Quinzena 2 — 10/08 a 22/08
 
-### Compromissos assumidos em 10/08
+### Compromissos assumidos em 13/08
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Andressa | Responsável pelo TCC finalizar  |
+| Ana Beatriz | Auxiliar a Rafaela no desenvolvimento do banco de dados e backend |
+| Laura | Responsável pelo TCC finalizar |
+| Rafaela | Escolher IA: Backend: fazer a integração backed com frontend na tela de login; Iniciar o backend/banco de dados do quiz  |
+| Samara | Auxiliar a integração, junto com a Rafaela, do login e iniciar o front do quiz|
 
 ### Verificação em 22/08
 
