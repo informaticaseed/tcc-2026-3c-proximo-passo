@@ -6,7 +6,7 @@
 ## 👥 Integrantes
 
 | Nome | GitHub | Turma |
-|---|---|---|
+|---|---|---| 
 | Samara Silva Pessoa | @username | 3C |
 | Laura Ferreira de Almada | @username | 3C |
 | Andressa Queiroz de Sousa | @username | 3C |
