@@ -14,7 +14,7 @@
 | Andressa | Falta pesquisar com mais detalhes na parte escrita: pagar tudo isso e as pesquisa do site |
 | Ana Beatriz | Falta pesquisar com mais detalhes na parte escrita: influência familiar na decisão carreira |
 | Laura | Falta pesquisar com mais detalhes na parte escrita: importância do autoconhecimento nas escolha|
-| Rafaela | Desenvolvimento do banco de dados e integração do login com o backend |
+| Rafaela | integração do login com o backend |
 | Samara | Terminar Frontend aplicar o CSS|
 
 Backlog:
