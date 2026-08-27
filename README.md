@@ -1,8 +1,8 @@
    # TCC 2026  — [Próximo Passo]
-**LTP3 + QP3 · CEMIC 2026 · Prof. Rafael Martins Alves**  
+**LTP3 + QP3 · CEMIC 2026 · Prof. Rafael Martins Alves**   
  
 ---
-
+ 
 ## 👥 Integrantes
 
 | Nome | GitHub | Turma | 
