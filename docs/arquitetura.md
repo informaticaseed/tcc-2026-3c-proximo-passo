@@ -7,7 +7,7 @@
 
 ## Diagrama de arquitetura
 
-> Cole aqui o link da imagem, foto ou diagrama em texto.
+ Cole aqui o link da imagem, foto ou diagrama em texto.
 
 ```
 Portal-Vocacional/
